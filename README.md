@@ -2,18 +2,33 @@ Tracking my time
 ----------------
 
 
-|Date       | hoursPerDay|
-|:----------|-----------:|
-|2016-12-13 |    7.900000|
-|2016-12-14 |    7.400000|
-|2016-12-15 |    1.216667|
 
+#### Bulk average
+
+Go home when this equals 7.5!
 
 
 | mean(hoursPerDay)|
 |-----------------:|
 |          5.505556|
 
+#### Days tracked so far
+
+
+```
+## [1] 3
+```
+
+#### Last few days
+
+
+|Date       | hoursPerDay|
+|:----------|-----------:|
+|2016-12-13 |    7.900000|
+|2016-12-14 |    7.400000|
+|2016-12-15 |    1.216667|
+
+#### Last few entries
 
 
 |   |Date       |Duration |
