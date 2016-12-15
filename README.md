@@ -5,12 +5,12 @@ Tracking my time
 
 #### Bulk average
 
-Go home when this equals 7.5!
+Go home to family when this equals 7.5!
 
 
 | mean(hoursPerDay)|
 |-----------------:|
-|          5.505556|
+|               6.4|
 
 #### Days tracked so far
 
@@ -24,18 +24,18 @@ Go home when this equals 7.5!
 
 |Date       | hoursPerDay|
 |:----------|-----------:|
-|2016-12-13 |    7.900000|
-|2016-12-14 |    7.400000|
-|2016-12-15 |    1.216667|
+|2016-12-13 |         7.9|
+|2016-12-14 |         7.4|
+|2016-12-15 |         3.9|
 
 #### Last few entries
 
 
-|   |Date       |Duration |
-|:--|:----------|:--------|
-|26 |2016-12-14 |25 mins  |
-|27 |2016-12-14 |6 mins   |
-|28 |2016-12-14 |38 mins  |
-|29 |2016-12-14 |30 mins  |
-|30 |2016-12-15 |30 mins  |
-|31 |2016-12-15 |43 mins  |
+|   |Date       |Duration |Activity                                                 |
+|:--|:----------|:--------|:--------------------------------------------------------|
+|35 |2016-12-15 |10 mins  |discussions with panos                                   |
+|36 |2016-12-15 |10 mins  |discussions with huiping regarding 10.3 subsampling node |
+|37 |2016-12-15 |13 mins  |finish pyspark code for variable transformations node    |
+|38 |2016-12-15 |5 mins   |jira updating                                            |
+|39 |2016-12-15 |8 mins   |clarifying email to ilan                                 |
+|40 |2016-12-15 |18 mins  |write specifications for variable transformation node    |

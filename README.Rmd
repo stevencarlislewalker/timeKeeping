@@ -7,7 +7,7 @@ source("parseTimeKeeping.R")
 
 #### Bulk average
 
-Go home when this equals 7.5!
+Go home to family when this equals 7.5!
 
 ```{r, echo = FALSE, eval = TRUE}
 hoursPerDayDF %>%
@@ -30,5 +30,5 @@ kable(tail(hoursPerDayDF))
 #### Last few entries
 
 ```{r, echo = FALSE, eval = TRUE}
-kable(tail(select(dataFrame, Date, Duration)))
+kable(tail(select(dataFrame, Date, Duration, Activity)))
 ```
