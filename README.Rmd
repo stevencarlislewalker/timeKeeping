@@ -4,3 +4,31 @@ Tracking my time
 ```{r, echo = FALSE, eval = TRUE}
 source("parseTimeKeeping.R")
 ```
+
+#### Bulk average
+
+Go home when this equals 7.5!
+
+```{r, echo = FALSE, eval = TRUE}
+hoursPerDayDF %>%
+      summarise(mean(hoursPerDay)) %>%
+      kable()
+```
+
+#### Days tracked so far
+
+```{r, echo = FALSE, eval = TRUE}
+nrow(hoursPerDayDF)
+```
+
+#### Last few days
+
+```{r, echo = FALSE, eval = TRUE}
+kable(tail(hoursPerDayDF))
+```
+
+#### Last few entries
+
+```{r, echo = FALSE, eval = TRUE}
+kable(tail(select(dataFrame, Date, Duration)))
+```

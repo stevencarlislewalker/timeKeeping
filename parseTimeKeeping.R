@@ -1,3 +1,4 @@
+library(knitr)
 library(dplyr)
 library(tidyr)
 library(data.table)
@@ -39,10 +40,4 @@ hoursPerDayDF <-
       group_by(Date) %>%
       summarise(hoursPerDay = as.numeric(sum(Duration)) / 60) %>%
       ungroup()
-print(hoursPerDayDF)
-hoursPerDayDF %>%
-      summarise(mean(hoursPerDay)) %>%
-      print()
-
-print(tail(select(dataFrame, Date, Duration)))
 
