@@ -87,3 +87,19 @@
 11:08-11:16 -- clarifying email to ilan
 
 11:16-11:34 -- write specifications for variable transformation node
+
+11:34-11:52 -- thought about SQL syntax checking for variable transformations node, and wrote clarifying email
+
+11:52-11:57 -- jira
+
+11:57-12:45 -- lunch
+
+12:45-12:58 -- discussions about weights with dmitri
+
+12:58-13:05 -- start on variable transformations validate expression
+
+13:05-13:43 -- discuss variable transformations node with huiping
+
+13:43-14:23 -- expression validation
+
+14:23-14:31 -- jira updates to variable transformations ticket, to reflect expression validation

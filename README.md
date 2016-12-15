@@ -10,7 +10,7 @@ Go home to family when this equals 7.5!
 
 | mean(hoursPerDay)|
 |-----------------:|
-|               6.4|
+|          7.116667|
 
 #### Days tracked so far
 
@@ -24,18 +24,18 @@ Go home to family when this equals 7.5!
 
 |Date       | hoursPerDay|
 |:----------|-----------:|
-|2016-12-13 |         7.9|
-|2016-12-14 |         7.4|
-|2016-12-15 |         3.9|
+|2016-12-13 |        7.90|
+|2016-12-14 |        7.40|
+|2016-12-15 |        6.05|
 
 #### Last few entries
 
 
-|   |Date       |Duration |Activity                                                 |
-|:--|:----------|:--------|:--------------------------------------------------------|
-|35 |2016-12-15 |10 mins  |discussions with panos                                   |
-|36 |2016-12-15 |10 mins  |discussions with huiping regarding 10.3 subsampling node |
-|37 |2016-12-15 |13 mins  |finish pyspark code for variable transformations node    |
-|38 |2016-12-15 |5 mins   |jira updating                                            |
-|39 |2016-12-15 |8 mins   |clarifying email to ilan                                 |
-|40 |2016-12-15 |18 mins  |write specifications for variable transformation node    |
+|   |Date       |Duration |Activity                                                                          |
+|:--|:----------|:--------|:---------------------------------------------------------------------------------|
+|43 |2016-12-15 |48 mins  |lunch                                                                             |
+|44 |2016-12-15 |13 mins  |discussions about weights with dmitri                                             |
+|45 |2016-12-15 |7 mins   |start on variable transformations validate expression                             |
+|46 |2016-12-15 |38 mins  |discuss variable transformations node with huiping                                |
+|47 |2016-12-15 |40 mins  |expression validation                                                             |
+|48 |2016-12-15 |8 mins   |jira updates to variable transformations ticket, to reflect expression validation |
