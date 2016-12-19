@@ -10,13 +10,13 @@ Go home to family when this equals 7.5!
 
 | mean(hoursPerDay)|
 |-----------------:|
-|          7.116667|
+|              6.01|
 
 #### Days tracked so far
 
 
 ```
-## [1] 3
+## [1] 5
 ```
 
 #### Last few days
@@ -24,18 +24,20 @@ Go home to family when this equals 7.5!
 
 |Date       | hoursPerDay|
 |:----------|-----------:|
-|2016-12-13 |        7.90|
-|2016-12-14 |        7.40|
-|2016-12-15 |        6.05|
+|2016-12-13 |   7.9000000|
+|2016-12-14 |   7.4000000|
+|2016-12-15 |   7.8333333|
+|2016-12-16 |   6.8833333|
+|2016-12-19 |   0.0333333|
 
 #### Last few entries
 
 
-|   |Date       |Duration |Activity                                                                          |
-|:--|:----------|:--------|:---------------------------------------------------------------------------------|
-|43 |2016-12-15 |48 mins  |lunch                                                                             |
-|44 |2016-12-15 |13 mins  |discussions about weights with dmitri                                             |
-|45 |2016-12-15 |7 mins   |start on variable transformations validate expression                             |
-|46 |2016-12-15 |38 mins  |discuss variable transformations node with huiping                                |
-|47 |2016-12-15 |40 mins  |expression validation                                                             |
-|48 |2016-12-15 |8 mins   |jira updates to variable transformations ticket, to reflect expression validation |
+|   |Date       |Duration |Activity                              |
+|:--|:----------|:--------|:-------------------------------------|
+|69 |2016-12-16 |59 mins  |resurecting confusion matrix code     |
+|70 |2016-12-16 |6 mins   |researching unit testing in python    |
+|71 |2016-12-16 |55 mins  |researching unit testing in pyspark   |
+|72 |2016-12-16 |60 mins  |obsessing over unit testing framework |
+|73 |2016-12-16 |30 mins  |more obsessing over unit testing      |
+|74 |2016-12-19 |2 mins   |get organized                         |
